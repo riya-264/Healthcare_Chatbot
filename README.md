@@ -35,11 +35,24 @@ Healthcare_chatbot/
 ├── README.md # You're reading it!
 
 
+
 ---
 
-## 💻 How to Run Locally
 
-1. **Clone the repo:**
-```bash
-git clone https://github.com/riya-264/Healthcare_chatbot.git
+pip install -r requirements.txt
+
+streamlit run app.py
+
+
+
+⭐ Contributions
+Pull requests are welcome! Feel free to improve the intents, enhance the model, or redesign the UI.
+
+📜 License
+This project is licensed under the MIT License.
+
+yaml
+Copy
+Edit
+
 cd Healthcare_chatbot
