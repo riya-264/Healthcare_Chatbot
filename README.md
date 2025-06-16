@@ -38,10 +38,14 @@ Healthcare_chatbot/
 
 ---
 
-
 pip install -r requirements.txt
 
 streamlit run app.py
+
+🙋‍♀️ Author
+Riya Chaturvedi
+Biomedical Engineering | AI & Healthtech Enthusiast
+🔗 GitHub
 
 
 
@@ -50,9 +54,3 @@ Pull requests are welcome! Feel free to improve the intents, enhance the model, 
 
 📜 License
 This project is licensed under the MIT License.
-
-yaml
-Copy
-Edit
-
-cd Healthcare_chatbot
